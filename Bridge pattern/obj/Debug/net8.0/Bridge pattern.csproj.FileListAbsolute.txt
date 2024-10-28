@@ -1,0 +1,14 @@
+C:\Users\KoretchukMA\source\repos\Bridge pattern\bin\Debug\net8.0\Bridge pattern.exe
+C:\Users\KoretchukMA\source\repos\Bridge pattern\bin\Debug\net8.0\Bridge pattern.deps.json
+C:\Users\KoretchukMA\source\repos\Bridge pattern\bin\Debug\net8.0\Bridge pattern.runtimeconfig.json
+C:\Users\KoretchukMA\source\repos\Bridge pattern\bin\Debug\net8.0\Bridge pattern.dll
+C:\Users\KoretchukMA\source\repos\Bridge pattern\bin\Debug\net8.0\Bridge pattern.pdb
+C:\Users\KoretchukMA\source\repos\Bridge pattern\obj\Debug\net8.0\Bridge pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KoretchukMA\source\repos\Bridge pattern\obj\Debug\net8.0\Bridge pattern.AssemblyInfoInputs.cache
+C:\Users\KoretchukMA\source\repos\Bridge pattern\obj\Debug\net8.0\Bridge pattern.AssemblyInfo.cs
+C:\Users\KoretchukMA\source\repos\Bridge pattern\obj\Debug\net8.0\Bridge pattern.csproj.CoreCompileInputs.cache
+C:\Users\KoretchukMA\source\repos\Bridge pattern\obj\Debug\net8.0\Bridge pattern.dll
+C:\Users\KoretchukMA\source\repos\Bridge pattern\obj\Debug\net8.0\refint\Bridge pattern.dll
+C:\Users\KoretchukMA\source\repos\Bridge pattern\obj\Debug\net8.0\Bridge pattern.pdb
+C:\Users\KoretchukMA\source\repos\Bridge pattern\obj\Debug\net8.0\Bridge pattern.genruntimeconfig.cache
+C:\Users\KoretchukMA\source\repos\Bridge pattern\obj\Debug\net8.0\ref\Bridge pattern.dll
